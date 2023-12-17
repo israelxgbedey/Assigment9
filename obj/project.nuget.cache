@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxdkaS9Z7/v51W0Kluya+y8jEcH3W9HnBH/clfcSpQSBmLIysMwDulitQzVLieYVMKZwJZxV1sk8opHq3OIYkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\markg\\source\\repos\\RESTfulWebApi\\RESTfulWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

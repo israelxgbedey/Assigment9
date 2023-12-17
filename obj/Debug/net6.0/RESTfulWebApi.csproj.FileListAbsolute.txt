@@ -1,0 +1,17 @@
+C:\Users\markg\source\repos\RESTfulWebApi\bin\Debug\net6.0\RESTfulWebApi.exe
+C:\Users\markg\source\repos\RESTfulWebApi\bin\Debug\net6.0\RESTfulWebApi.deps.json
+C:\Users\markg\source\repos\RESTfulWebApi\bin\Debug\net6.0\RESTfulWebApi.runtimeconfig.json
+C:\Users\markg\source\repos\RESTfulWebApi\bin\Debug\net6.0\RESTfulWebApi.dll
+C:\Users\markg\source\repos\RESTfulWebApi\bin\Debug\net6.0\RESTfulWebApi.pdb
+C:\Users\markg\source\repos\RESTfulWebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.csproj.AssemblyReference.cache
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.AssemblyInfoInputs.cache
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.AssemblyInfo.cs
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.csproj.CoreCompileInputs.cache
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.csproj.CopyComplete
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.dll
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\refint\RESTfulWebApi.dll
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.pdb
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\RESTfulWebApi.genruntimeconfig.cache
+C:\Users\markg\source\repos\RESTfulWebApi\obj\Debug\net6.0\ref\RESTfulWebApi.dll
